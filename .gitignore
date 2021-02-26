@@ -10,4 +10,4 @@
 
 
 # ignore .tfvars
-*.tfvars
+# *.tfvars
